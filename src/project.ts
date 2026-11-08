@@ -1,9 +1,9 @@
 import {makeProject} from '@canvas-commons/core';
 
 import title from './scenes/title?scene';
-import method1 from './scenes/method1?scene';
-import demo1 from './scenes/demo1?scene';
+import fan_intro from './scenes/fan-intro?scene';
+import fan_demo from './scenes/fan-demo?scene';
 
 export default makeProject({
-  scenes: [title, method1, demo1]
+  scenes: [title, fan_intro, fan_demo]
 });

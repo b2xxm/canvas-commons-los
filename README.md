@@ -14,5 +14,5 @@ This approach allows for signal-driven animations, precise calculations, and gre
 My inspiration and introduction to Motion Canvas stems from [aarthificial's](https://www.youtube.com/@aarthificial) devlogs, where he regularly uses and advocates for the framework.
 
 ## References
-[Canvas Commons](https://canvascommons.io/)  
-> *A Gist containing the line-of-sight implementation will be added here.*
+[Canvas Commons Website](https://canvascommons.io/)  
+[Line of Sight Implementation Gist](https://gist.github.com/b2xxm/64fba249c50e4fe87f91db5a1dc7f9aa)
